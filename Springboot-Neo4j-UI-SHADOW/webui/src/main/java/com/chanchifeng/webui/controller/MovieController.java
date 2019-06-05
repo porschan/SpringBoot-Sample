@@ -1,6 +1,5 @@
 package com.chanchifeng.webui.controller;
 
-
 import com.chanchifeng.data.domain.Actor;
 import com.chanchifeng.data.domain.Movie;
 import com.chanchifeng.data.repositories.ActorRepository;

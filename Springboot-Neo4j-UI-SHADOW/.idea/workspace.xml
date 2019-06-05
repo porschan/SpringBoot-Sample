@@ -1,7 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4bc48312-310a-4b0c-b98d-2f66b63f0c46" name="Default Changelist" comment="" />
+    <list default="true" id="4bc48312-310a-4b0c-b98d-2f66b63f0c46" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/SpringBoot-Neo4j-UI-UPGRADE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/data/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/data/src/main/java/com/chanchifeng/data/common/vo/PageVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/data/src/main/java/com/chanchifeng/data/common/vo/ResultVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/data/src/main/java/com/chanchifeng/data/config/DataConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/data/src/main/java/com/chanchifeng/data/domain/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/data/src/main/java/com/chanchifeng/data/domain/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/data/src/main/java/com/chanchifeng/data/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/data/src/main/java/com/chanchifeng/data/kit/IdWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/data/src/main/java/com/chanchifeng/data/repo/BookRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/data/src/main/java/com/chanchifeng/data/repo/RoleRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/data/src/main/java/com/chanchifeng/data/repo/StudentRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/data/src/main/java/com/chanchifeng/data/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/data/src/main/java/com/chanchifeng/data/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/data/src/main/java/com/chanchifeng/data/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/data/src/main/java/com/chanchifeng/data/service/impl/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/data/src/test/java/com/chanchifeng/data/StudentRepoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/java/com/chanchifeng/web/WebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/java/com/chanchifeng/web/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/java/com/chanchifeng/web/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layer/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layer/mobile/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layer/mobile/need/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layer/theme/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layer/theme/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layer/theme/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layer/theme/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layer/theme/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layer/theme/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/css/layui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/css/layui.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/css/modules/code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/css/modules/layer/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/images/face/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/lay/modules/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/lay/modules/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/lay/modules/colorpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/lay/modules/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/lay/modules/flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/lay/modules/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/lay/modules/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/lay/modules/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/lay/modules/layedit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/lay/modules/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/lay/modules/laypage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/lay/modules/laytpl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/lay/modules/mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/lay/modules/rate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/lay/modules/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/lay/modules/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/lay/modules/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/lay/modules/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/lay/modules/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/layui.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/common/layerui/layui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/css/占位符.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/images/pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/js/jQuery-core/jquery-1.10.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/js/jQuery-core/jquery-1.4.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/js/jQuery-core/jquery-1.6.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/js/jQuery-core/jquery-1.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/js/jQuery-core/jquery-1.9.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/js/jQuery-core/jquery-2.0.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/js/jQuery-core/jquery.md5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/static/js/plugins/占位符.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot-Neo4j-UI-UPGRADE/web/src/main/resources/templates/neo4j/student/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webui/src/main/java/com/chanchifeng/webui/controller/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/webui/src/main/java/com/chanchifeng/webui/controller/MovieController.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/data/target/" />
@@ -27,48 +182,17 @@
     <select />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/config/Neo4jConfig.java">
+        <entry file="file://$PROJECT_DIR$/webui/src/main/java/com/chanchifeng/webui/controller/ActorController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="425">
+              <caret line="25" column="43" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#826#827#0" expanded="true" />
-                <element signature="e#898#899#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/domain/Actor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#668#669#0" expanded="true" />
-                <element signature="e#693#694#0" expanded="true" />
-                <element signature="e#727#728#0" expanded="true" />
-                <element signature="e#755#756#0" expanded="true" />
-                <element signature="e#786#787#0" expanded="true" />
-                <element signature="e#813#814#0" expanded="true" />
-                <element signature="e#853#854#0" expanded="true" />
-                <element signature="e#885#886#0" expanded="true" />
-                <element signature="e#912#913#0" expanded="true" />
-                <element signature="e#938#939#0" expanded="true" />
-                <element signature="e#973#974#0" expanded="true" />
-                <element signature="e#1003#1004#0" expanded="true" />
-                <element signature="e#1032#1033#0" expanded="true" />
-                <element signature="e#1059#1060#0" expanded="true" />
-                <element signature="e#1097#1098#0" expanded="true" />
-                <element signature="e#1129#1130#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -77,8 +201,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/domain/Movie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+            <state relative-caret-position="102">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1039#1040#0" expanded="true" />
@@ -107,9 +231,51 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/domain/Role.java">
+        <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/domain/Actor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#668#669#0" expanded="true" />
+                <element signature="e#693#694#0" expanded="true" />
+                <element signature="e#727#728#0" expanded="true" />
+                <element signature="e#755#756#0" expanded="true" />
+                <element signature="e#786#787#0" expanded="true" />
+                <element signature="e#813#814#0" expanded="true" />
+                <element signature="e#853#854#0" expanded="true" />
+                <element signature="e#885#886#0" expanded="true" />
+                <element signature="e#912#913#0" expanded="true" />
+                <element signature="e#938#939#0" expanded="true" />
+                <element signature="e#973#974#0" expanded="true" />
+                <element signature="e#1003#1004#0" expanded="true" />
+                <element signature="e#1032#1033#0" expanded="true" />
+                <element signature="e#1059#1060#0" expanded="true" />
+                <element signature="e#1097#1098#0" expanded="true" />
+                <element signature="e#1129#1130#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/config/Neo4jConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#826#827#0" expanded="true" />
+                <element signature="e#898#899#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/domain/Role.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
               <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -131,10 +297,32 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webui/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="39" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="39" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webui/src/main/java/com/chanchifeng/webui/controller/MovieController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-116">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/repositories/ActorRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="85">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -143,44 +331,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/repositories/MovieRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/service/PagesService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="55" lean-forward="true" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+            <state relative-caret-position="612">
+              <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/webui/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -192,6 +349,16 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>add</find>
+      <find>save</find>
+      <find>Role</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -205,15 +372,15 @@
         <option value="$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/damain/Role.java" />
         <option value="$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/damain/Movie.java" />
         <option value="$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/damain/Actor.java" />
-        <option value="$PROJECT_DIR$/webui/src/main/java/com/chanchifeng/webui/controller/MovieController.java" />
-        <option value="$PROJECT_DIR$/webui/src/main/java/com/chanchifeng/webui/controller/ActorController.java" />
-        <option value="$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/config/Neo4jConfig.java" />
         <option value="$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/domain/Actor.java" />
         <option value="$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/domain/Movie.java" />
         <option value="$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/domain/Role.java" />
         <option value="$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/repositories/ActorRepository.java" />
         <option value="$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/repositories/MovieRepository.java" />
         <option value="$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/service/PagesService.java" />
+        <option value="$PROJECT_DIR$/webui/src/main/java/com/chanchifeng/webui/controller/ActorController.java" />
+        <option value="$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/config/Neo4jConfig.java" />
+        <option value="$PROJECT_DIR$/webui/src/main/java/com/chanchifeng/webui/controller/MovieController.java" />
       </list>
     </option>
   </component>
@@ -260,9 +427,12 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="606" />
-    <option name="width" value="1940" />
+    <option name="x" value="-7" />
+    <option name="width" value="1910" />
     <option name="height" value="1407" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -270,9 +440,162 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Springboot-Neo4j-UI-SHADOW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-Neo4j-UI-SHADOW" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-Neo4j-UI-SHADOW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-Neo4j-UI-SHADOW" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-Neo4j-UI-SHADOW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-Neo4j-UI-SHADOW" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-Neo4j-UI-SHADOW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-Neo4j-UI-SHADOW" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-Neo4j-UI-SHADOW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-Neo4j-UI-SHADOW" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-Neo4j-UI-SHADOW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-Neo4j-UI-SHADOW" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-Neo4j-UI-SHADOW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-Neo4j-UI-SHADOW" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-Neo4j-UI-SHADOW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-Neo4j-UI-SHADOW" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-Neo4j-UI-SHADOW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-Neo4j-UI-SHADOW" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="repositories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-Neo4j-UI-SHADOW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-Neo4j-UI-SHADOW" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-Neo4j-UI-SHADOW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-Neo4j-UI-SHADOW" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-Neo4j-UI-SHADOW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-Neo4j-UI-SHADOW" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-Neo4j-UI-SHADOW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-Neo4j-UI-SHADOW" type="462c0819:PsiDirectoryNode" />
+              <item name="webui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-Neo4j-UI-SHADOW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-Neo4j-UI-SHADOW" type="462c0819:PsiDirectoryNode" />
+              <item name="webui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-Neo4j-UI-SHADOW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-Neo4j-UI-SHADOW" type="462c0819:PsiDirectoryNode" />
+              <item name="webui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-Neo4j-UI-SHADOW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-Neo4j-UI-SHADOW" type="462c0819:PsiDirectoryNode" />
+              <item name="webui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-Neo4j-UI-SHADOW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-Neo4j-UI-SHADOW" type="462c0819:PsiDirectoryNode" />
+              <item name="webui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="webui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-Neo4j-UI-SHADOW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-Neo4j-UI-SHADOW" type="462c0819:PsiDirectoryNode" />
+              <item name="webui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="webui" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Springboot-Neo4j-UI-SHADOW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Springboot-Neo4j-UI-SHADOW" type="462c0819:PsiDirectoryNode" />
+              <item name="webui" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,6 +605,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -350,18 +674,22 @@
       <option name="presentableId" value="Default" />
       <updated>1559286930686</updated>
       <workItem from="1559286933352" duration="4429000" />
-      <workItem from="1559291488860" duration="429000" />
+      <workItem from="1559291488860" duration="5823000" />
+      <workItem from="1559355501992" duration="6563000" />
+      <workItem from="1559378952264" duration="1153000" />
+      <workItem from="1559629584756" duration="2828000" />
+      <workItem from="1559661379567" duration="2267000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4858000" />
+    <option name="totallyTimeSpent" value="23063000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="606" y="0" width="1940" height="1407" extended-state="0" />
+    <frame x="-7" y="0" width="1910" height="1407" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24373333" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22872628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -369,7 +697,7 @@
       <window_info id="Web" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32967034" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39952904" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -396,24 +724,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/service/PagesService.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/service/PagesService.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data.java" />
     <entry file="file://$PROJECT_DIR$/webui/src/main/java/com/chanchifeng/webui/controller.java" />
@@ -434,21 +744,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/src/main/resources/ogm.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -483,30 +778,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webui/src/main/java/com/chanchifeng/webui/controller/ActorController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webui/src/main/java/com/chanchifeng/webui/controller/MovieController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webui/src/main/java/com/chanchifeng/webui/WebuiApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/repositories/MovieRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/service/PagesService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="52" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -516,52 +811,29 @@
     <entry file="file://$PROJECT_DIR$/webui/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/config/Neo4jConfig.java">
+    <entry file="file://$PROJECT_DIR$/data/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#826#827#0" expanded="true" />
-            <element signature="e#898#899#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="18" selection-end-column="21" />
         </state>
       </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/domain/Actor.java">
+    <entry file="file://$PROJECT_DIR$/data/src/main/resources/ogm.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#668#669#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-            <element signature="e#727#728#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-            <element signature="e#786#787#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
-            <element signature="e#853#854#0" expanded="true" />
-            <element signature="e#885#886#0" expanded="true" />
-            <element signature="e#912#913#0" expanded="true" />
-            <element signature="e#938#939#0" expanded="true" />
-            <element signature="e#973#974#0" expanded="true" />
-            <element signature="e#1003#1004#0" expanded="true" />
-            <element signature="e#1032#1033#0" expanded="true" />
-            <element signature="e#1059#1060#0" expanded="true" />
-            <element signature="e#1097#1098#0" expanded="true" />
-            <element signature="e#1129#1130#0" expanded="true" />
-          </folding>
+        <state>
+          <caret selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/domain/Movie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        <state relative-caret-position="102">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1039#1040#0" expanded="true" />
@@ -588,9 +860,100 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/domain/Role.java">
+    <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/domain/Actor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#727#728#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#973#974#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+            <element signature="e#1032#1033#0" expanded="true" />
+            <element signature="e#1059#1060#0" expanded="true" />
+            <element signature="e#1097#1098#0" expanded="true" />
+            <element signature="e#1129#1130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/config/Neo4jConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#826#827#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webui/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="39" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/repositories/ActorRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.12.5.RELEASE/spring-data-commons-1.12.5.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="66" column="7" lean-forward="true" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webui/src/main/java/com/chanchifeng/webui/controller/ActorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webui/src/main/java/com/chanchifeng/webui/controller/MovieController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-116">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/domain/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -607,49 +970,6 @@
             <element signature="e#1037#1038#0" expanded="true" />
             <element signature="e#1065#1066#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/repositories/ActorRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/repositories/MovieRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/src/main/java/com/chanchifeng/data/service/PagesService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webui/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="10" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="55" lean-forward="true" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
         </state>
       </provider>
     </entry>
