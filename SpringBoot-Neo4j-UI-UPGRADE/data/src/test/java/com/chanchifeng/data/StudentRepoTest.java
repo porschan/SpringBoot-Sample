@@ -1,7 +1,6 @@
 package com.chanchifeng.data;
 
 import com.chanchifeng.data.domain.Book;
-import com.chanchifeng.data.domain.Role;
 import com.chanchifeng.data.domain.Student;
 import com.chanchifeng.data.repo.BookRepo;
 import com.chanchifeng.data.repo.RoleRepo;
@@ -15,8 +14,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import javax.annotation.Resource;
 import java.util.Date;
-import java.util.List;
-import java.util.Objects;
 import java.util.Optional;
 
 @RunWith(SpringRunner.class)

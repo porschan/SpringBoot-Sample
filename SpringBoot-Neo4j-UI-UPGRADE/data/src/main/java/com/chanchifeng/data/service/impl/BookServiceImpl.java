@@ -22,15 +22,7 @@ public class BookServiceImpl implements BookService {
     public PageVO<Book> finlAllPage(int page, int size) {
         Sort sort = new Sort(Sort.Direction.DESC,"bookCreateTime");
         Page<Book> all = bookRepo.findAll(PageRequest.of(page, size,sort));
-
-        System.out.println("all.getNumber():" + all.getNumber());
-        System.out.println("all.getTotalPages():" + all.getTotalPages());
-        System.out.println("all.getContent():" + all.getContent());
-        System.out.println("all.getTotalElements():" + all.getTotalElements());
-
         List<Book> content = all.getContent();
-
-
         return new PageVO<Book>(all.getNumber(),all.getTotalPages(),all.getContent(),all.getTotalElements());
     }
 }
