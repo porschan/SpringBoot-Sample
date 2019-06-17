@@ -37,7 +37,7 @@ spring:
   jpa:
     database: MYSQL
     show-sql: true
-  ## Hibernate ddl auto (validate|create|create-drop|update)
+    ## Hibernate ddl auto (validate|create|create-drop|update)
     hibernate:
       ddl-auto: update
       naming-strategy: org.hibernate.cfg.ImprovedNamingStrategy
@@ -45,13 +45,15 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.MySQL5Dialect
 
-   ## redis
+    ## redis
   redis:
-#    host: 192.168.1.214
+    #    host: 192.168.1.214
     host: 127.0.0.1
     port: 6379
     pool:
-      max-idle: 8
-      min-idle: 0
-      max-active: 8
-      max-wait: -1
+    jedis:
+      pool:
+        max-idle: 8
+        min-idle: 0
+        max-active: 8
+        max-wait: -1
