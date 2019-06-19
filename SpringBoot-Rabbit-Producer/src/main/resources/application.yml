@@ -1,0 +1,15 @@
+server:
+  port: 8001
+  servlet:
+    context-path: /
+
+spring:
+  rabbitmq:
+    addresses: 192.168.51.50:5672
+    username: guest
+    password: guest
+    virtual-host: /
+    publisher-confirms: true
+    publisher-returns: true
+    template:
+      mandatory: true
