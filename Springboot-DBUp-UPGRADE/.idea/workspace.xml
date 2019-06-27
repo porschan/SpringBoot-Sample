@@ -1,150 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c3f6120-89e0-4940-93cd-1b2b16cde782" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-SHADOW/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Springboot-DBUp-SHADOW/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-SHADOW/website/src/main/resources/templates/user/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Springboot-DBUp-SHADOW/website/src/main/resources/templates/user/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/dbexpand/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/dbexpand/src/main/java/com/chanchifeng/dbexpand/DruidConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/dbexpand/src/main/java/com/chanchifeng/dbexpand/JpaConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/dbexpand/src/main/java/com/chanchifeng/dbexpand/RedisConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/dbexpand/src/main/java/com/chanchifeng/dbexpand/jpa/exception/DataException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/dbexpand/src/main/java/com/chanchifeng/dbexpand/jpa/parameter/LinkEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/dbexpand/src/main/java/com/chanchifeng/dbexpand/jpa/parameter/Operator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/dbexpand/src/main/java/com/chanchifeng/dbexpand/jpa/parameter/Predicate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/dbexpand/src/main/java/com/chanchifeng/dbexpand/jpa/parameter/PredicateBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/dbexpand/src/main/java/com/chanchifeng/dbexpand/jpa/repository/ExpandJpaRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/dbexpand/src/main/java/com/chanchifeng/dbexpand/jpa/repository/ExpandJpaRepositoryFactoryBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/dbexpand/src/main/java/com/chanchifeng/dbexpand/jpa/repository/ExpandJpaRepositoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/mysql/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/mysql/src/main/java/com/chanchifeng/mysql/entity/Department.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/mysql/src/main/java/com/chanchifeng/mysql/entity/Role.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/mysql/src/main/java/com/chanchifeng/mysql/entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/mysql/src/main/java/com/chanchifeng/mysql/model/DepartmentQo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/mysql/src/main/java/com/chanchifeng/mysql/model/PageQo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/mysql/src/main/java/com/chanchifeng/mysql/model/RoleQo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/mysql/src/main/java/com/chanchifeng/mysql/model/UserQo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/mysql/src/main/java/com/chanchifeng/mysql/redis/DepartmentRedis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/mysql/src/main/java/com/chanchifeng/mysql/redis/RoleRedis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/mysql/src/main/java/com/chanchifeng/mysql/redis/UserRedis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/mysql/src/main/java/com/chanchifeng/mysql/repository/DepartmentRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/mysql/src/main/java/com/chanchifeng/mysql/repository/RoleRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/mysql/src/main/java/com/chanchifeng/mysql/repository/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/mysql/src/main/java/com/chanchifeng/mysql/service/DepartmentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/mysql/src/main/java/com/chanchifeng/mysql/service/RoleService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/mysql/src/main/java/com/chanchifeng/mysql/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/java/com/chanchifeng/website/WebApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/java/com/chanchifeng/website/controller/DepartmentController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/java/com/chanchifeng/website/controller/RoleController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/java/com/chanchifeng/website/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/arrow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/global/selectDown.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/global/subMenuBk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/global/togUpDownCircle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/global/topLineBk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/global/wen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/addIcon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/arr1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/arr2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/arr3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/arr4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/blueBtn-62X30.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/bryBk-256X118.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/btn-56X29.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/btn-93X38.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/btnBk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/closeIcon-14X14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/del.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/deleteIcon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/line.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/list-bk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/radiusBlueBot-782.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/radiusBlueMid-782.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/radiusBlueTop-782.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/radiusGrayBot-782.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/radiusGrayTop-782.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/selectDown.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/selectIcon-15X14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/togMoveIcon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/index/verticalLine.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/My97DatePicker/WdatePicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/My97DatePicker/calendar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/My97DatePicker/lang/en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/My97DatePicker/lang/zh-cn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/My97DatePicker/lang/zh-tw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/My97DatePicker/skin/WdatePicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/My97DatePicker/skin/datePicker.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/My97DatePicker/skin/default/datepicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/My97DatePicker/skin/default/img.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/My97DatePicker/skin/whyGreen/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/My97DatePicker/skin/whyGreen/datepicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/My97DatePicker/skin/whyGreen/img.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/artDialog/artDialog.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/artDialog/default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/artDialog/icons/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/artDialog/jquery.artDialog.source.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/department/edit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/department/list.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/department/new.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/imageselect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/jquery.smartselect-1.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/pagination/jquery.pagination.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/pagination/pagination.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/pagination/wait.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/public/json2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/public/public.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/role/edit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/role/list.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/role/new.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/user/edit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/user/list.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/user/new.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/validate/additional-methods.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/validate/chinese.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/validate/css/chili.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/validate/css/cmxform.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/validate/css/cmxformTemplate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/validate/css/core.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/validate/css/reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/validate/css/screen.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/validate/jquery.metadata.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/validate/jquery.validate.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/validate/tooltip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/validate/tooltip.slide.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/scripts/validate/validate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/styles/global.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/styles/imageselect.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/static/styles/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/templates/department/edit.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/templates/department/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/templates/department/new.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/templates/department/show.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/templates/fragments/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/templates/fragments/layout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/templates/fragments/nav.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/templates/role/edit.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/templates/role/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/templates/role/new.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/templates/role/show.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/templates/user/edit.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/templates/user/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/templates/user/new.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Springboot-DBUp-UPGRADE-ERROR/website/src/main/resources/templates/user/show.html" beforeDir="false" />
-    </list>
+    <list default="true" id="8c3f6120-89e0-4940-93cd-1b2b16cde782" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/dbexpand/target/" />
@@ -174,148 +31,117 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.66620624">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/service/UserService.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="39">
-                  <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/service/RoleService.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="158">
-                  <caret line="68" column="26" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/website/src/main/java/com/chanchifeng/website/controller/RoleController.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="527">
-                  <caret line="31" column="63" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/website/src/main/java/com/chanchifeng/website/controller/UserController.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="634">
-                  <caret line="90" column="20" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="20" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#2829#2835#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/website/src/main/resources/templates/user/edit.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="306">
-                  <caret line="18" column="81" selection-start-line="18" selection-start-column="81" selection-end-line="18" selection-end-column="81" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/entity/User.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="573">
-                  <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/repository/UserRepository.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="323">
-                  <caret line="19" selection-start-line="19" selection-end-line="23" selection-end-column="24" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#0#53#1" expanded="true" />
-                    <element signature="e#0#44#1" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/repository/RoleRepository.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="238">
-                  <caret line="14" column="77" selection-start-line="14" selection-start-column="77" selection-end-line="14" selection-end-column="77" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/service/DepartmentService.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="311">
-                  <caret line="63" column="36" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="36" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/website/src/main/java/com/chanchifeng/website/controller/DepartmentController.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="697">
-                  <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/service/UserService.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="787">
-                  <caret line="62" column="46" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1127">
+              <caret line="82" lean-forward="true" selection-start-line="2" selection-end-line="82" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/src/main/java/com/chanchifeng/website/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1110">
+              <caret line="118" column="1" lean-forward="true" selection-start-line="2" selection-end-line="118" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/src/main/java/com/chanchifeng/website/WebApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="52" column="8" lean-forward="true" selection-end-line="62" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dbexpand/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" lean-forward="true" selection-end-line="63" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysql/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="39" column="10" lean-forward="true" selection-end-line="39" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="53" column="10" lean-forward="true" selection-end-line="53" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="59" lean-forward="true" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/model/UserQo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="26" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/repository/UserRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="24" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -435,6 +261,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -476,49 +303,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dbexpand" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Springboot-DBUp-UPGRADE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Springboot-DBUp-UPGRADE" type="462c0819:PsiDirectoryNode" />
-              <item name="dbexpand" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dbexpand" type="462c0819:PsiDirectoryNode" />
-              <item name="jpa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Springboot-DBUp-UPGRADE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Springboot-DBUp-UPGRADE" type="462c0819:PsiDirectoryNode" />
-              <item name="dbexpand" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dbexpand" type="462c0819:PsiDirectoryNode" />
-              <item name="jpa" type="462c0819:PsiDirectoryNode" />
-              <item name="exception" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Springboot-DBUp-UPGRADE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Springboot-DBUp-UPGRADE" type="462c0819:PsiDirectoryNode" />
-              <item name="dbexpand" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dbexpand" type="462c0819:PsiDirectoryNode" />
-              <item name="jpa" type="462c0819:PsiDirectoryNode" />
-              <item name="parameter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Springboot-DBUp-UPGRADE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Springboot-DBUp-UPGRADE" type="462c0819:PsiDirectoryNode" />
-              <item name="dbexpand" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dbexpand" type="462c0819:PsiDirectoryNode" />
-              <item name="jpa" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Springboot-DBUp-UPGRADE" type="b2602c69:ProjectViewProjectNode" />
@@ -648,50 +432,11 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Springboot-DBUp-UPGRADE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Springboot-DBUp-UPGRADE" type="462c0819:PsiDirectoryNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Springboot-DBUp-UPGRADE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Springboot-DBUp-UPGRADE" type="462c0819:PsiDirectoryNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Springboot-DBUp-UPGRADE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Springboot-DBUp-UPGRADE" type="462c0819:PsiDirectoryNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="fragments" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Springboot-DBUp-UPGRADE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Springboot-DBUp-UPGRADE" type="462c0819:PsiDirectoryNode" />
-              <item name="website" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="user" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -804,17 +549,17 @@
       <workItem from="1560911017278" duration="3595000" />
       <workItem from="1560914691980" duration="471000" />
       <workItem from="1561452392463" duration="8027000" />
+      <workItem from="1561522028477" duration="797000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28264000" />
+    <option name="totallyTimeSpent" value="29061000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13672496" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18124007" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -840,7 +585,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" weight="0.32949126" />
-      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.32869634" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32869634" />
       <window_info anchor="right" id="Bean Validation" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
@@ -907,16 +652,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/entity/Department.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="49" lean-forward="true" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/entity/Role.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -970,14 +705,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="75" column="13" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1035,13 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dbexpand/src/main/java/com/chanchifeng/dbexpand/RedisConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dbexpand/src/main/java/com/chanchifeng/dbexpand/jpa/repository/ExpandJpaRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1067,33 +787,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#4256#4425#0" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dbexpand/src/main/java/com/chanchifeng/dbexpand/DruidConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dbexpand/src/main/java/com/chanchifeng/dbexpand/JpaConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/src/main/java/com/chanchifeng/website/WebApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1125,33 +818,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/website/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="19" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/website/src/main/resources/templates/user/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="54" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
         </state>
       </provider>
     </entry>
@@ -1206,23 +876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/model/UserQo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/model/PageQo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.1.8.RELEASE/spring-data-jpa-2.1.8.RELEASE-sources.jar!/org/springframework/data/jpa/domain/Specification.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="999">
@@ -1240,6 +893,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.7.RELEASE/spring-aop-5.1.7.RELEASE-sources.jar!/org/springframework/aop/framework/CglibAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="660" selection-start-line="660" selection-end-line="660" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/service/RoleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="68" column="26" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/src/main/java/com/chanchifeng/website/controller/RoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="31" column="63" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/repository/RoleRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1250,21 +930,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/repository/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="23" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#0#53#1" expanded="true" />
-            <element signature="e#0#44#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/service/DepartmentService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
+        <state relative-caret-position="821">
           <caret line="63" column="36" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1274,68 +942,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/website/src/main/java/com/chanchifeng/website/controller/DepartmentController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
+        <state relative-caret-position="493">
           <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.7.RELEASE/spring-aop-5.1.7.RELEASE-sources.jar!/org/springframework/aop/framework/CglibAopProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="660" selection-start-line="660" selection-end-line="660" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/src/main/java/com/chanchifeng/website/controller/RoleController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="63" selection-start-line="31" selection-start-column="63" selection-end-line="31" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/service/RoleService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="68" column="26" selection-start-line="68" selection-start-column="26" selection-end-line="68" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/website/src/main/java/com/chanchifeng/website/controller/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
-          <caret line="90" column="20" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2829#2835#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1344,6 +954,142 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="81" selection-start-line="18" selection-start-column="81" selection-end-line="18" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbexpand/src/main/java/com/chanchifeng/dbexpand/DruidConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbexpand/src/main/java/com/chanchifeng/dbexpand/JpaConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbexpand/src/main/java/com/chanchifeng/dbexpand/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="94" column="1" lean-forward="true" selection-start-line="2" selection-end-line="94" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/model/PageQo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/model/UserQo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/src/main/java/com/chanchifeng/mysql/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1127">
+          <caret line="82" lean-forward="true" selection-start-line="2" selection-end-line="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/src/main/java/com/chanchifeng/website/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="118" column="1" lean-forward="true" selection-start-line="2" selection-end-line="118" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/src/main/java/com/chanchifeng/website/WebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="8" lean-forward="true" selection-end-line="62" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbexpand/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-end-line="63" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="10" lean-forward="true" selection-end-line="39" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="10" lean-forward="true" selection-end-line="53" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="59" lean-forward="true" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
         </state>
       </provider>
     </entry>
